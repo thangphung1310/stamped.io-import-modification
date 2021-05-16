@@ -1,5 +1,5 @@
 # stamped.io-import-modification
-Please follow this intructions
+INSTRUCTION IN SHORT
 
 
 1. Head into your Google Sheets
@@ -14,3 +14,5 @@ Please follow this intructions
 10. Choose "exe"
 
 If the Google Sheets ask you about granting permissions for this "untrusted" developer, please say yes to all.
+
+DETAILED INSTRUCTION (WITH PICTURES): https://docs.google.com/document/d/1017Bk0hTBt4_A8j72d1GoHq-NHgfdfvHrZJn9s5N6KI/edit?usp=sharing
