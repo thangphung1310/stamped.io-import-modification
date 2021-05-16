@@ -12,3 +12,5 @@ Please follow this intructions
 8. Choose the function "exe"
 9. Repeat step 7
 10. Choose "exe"
+
+If the Google Sheets ask you about granting permissions for this "untrusted" developer, please say yes to all.
