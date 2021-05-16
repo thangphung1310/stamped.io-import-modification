@@ -6,7 +6,7 @@ function exe() {
   showForm();
 }
 function showForm() {
-  var template = HtmlService.createTemplateFromFile("Form")
+  var template = HtmlService.createTemplateFromFile("form")
   var html = template.evaluate()
   SpreadsheetApp.getUi().showModalDialog(html, "Input Store Domain and Private Token")
 }
