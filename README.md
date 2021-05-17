@@ -1,18 +1,5 @@
 # stamped.io-import-modification
-INSTRUCTION IN SHORT
 
+Link to corresponding google sheets: https://docs.google.com/spreadsheets/d/1_upZylz9f6gkEJpvF4e-d2n6htSCDRWAOApGFtY0v2c/edit?usp=sharing
 
-1. Head into your Google Sheets
-2. Click on "Tools" --> "Script Editor"
-3. Add 2 new files: core.gs and form.html
-4. Copy the contents of this repo to corresponding file in your script editor
-5. Save the script
-6. Import the file from Stamped.io to the current Spreadsheet (untick the box that says "Convert text to numbers, dates, and formulas")
-7. Click on "Tool" --> "Macros" --> "Import"
-8. Choose the function "exe"
-9. Repeat step 7
-10. Choose "exe"
-
-If the Google Sheets ask you about granting permissions for this "untrusted" developer, please say yes to all.
-
-DETAILED INSTRUCTION (WITH PICTURES): https://docs.google.com/document/d/1017Bk0hTBt4_A8j72d1GoHq-NHgfdfvHrZJn9s5N6KI/edit?usp=sharing
+Please go to this google docs to get instructions: https://docs.google.com/document/d/1jPi6oi0dO51ZkSwQLczfLgLnq5pjJUyCJWIFXGGHhEw/edit?usp=sharing
